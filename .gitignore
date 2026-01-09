@@ -53,3 +53,13 @@
 
 # Env
 .env.*
+
+# PHPSTORM
+.idea/
+
+# Docker
+docker-compose.yaml
+Dockerfile
+nginx.conf
+php.ini
+compose.override.yaml
